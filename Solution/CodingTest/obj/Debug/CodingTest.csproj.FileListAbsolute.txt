@@ -1,0 +1,32 @@
+C:\Projects\Enerj\CodingTest\CodingTest\bin\Debug\CodingTest.exe.config
+C:\Projects\Enerj\CodingTest\CodingTest\bin\Debug\CodingTest.exe
+C:\Projects\Enerj\CodingTest\CodingTest\bin\Debug\CodingTest.pdb
+C:\Projects\Enerj\CodingTest\CodingTest\obj\Debug\CodingTest.exe
+C:\Projects\Enerj\CodingTest\CodingTest\obj\Debug\CodingTest.pdb
+C:\Projects\Enerj\CodingTest\CodingTest\bin\Debug\PalindromeStringMethod.dll
+C:\Projects\Enerj\CodingTest\CodingTest\bin\Debug\PalindromeStringMethod.pdb
+C:\Projects\Enerj\CodingTest\CodingTest\obj\Debug\CodingTest.csprojResolveAssemblyReference.cache
+C:\Users\TOM\Desktop\CodingTest\CodingTest\bin\Debug\CodingTest.exe.config
+C:\Users\TOM\Desktop\CodingTest\CodingTest\obj\Debug\CodingTest.exe
+C:\Users\TOM\Desktop\CodingTest\CodingTest\obj\Debug\CodingTest.pdb
+C:\Users\TOM\Desktop\CodingTest\CodingTest\bin\Debug\CodingTest.exe
+C:\Users\TOM\Desktop\CodingTest\CodingTest\bin\Debug\CodingTest.pdb
+C:\Users\TOM\Desktop\CodingTest\CodingTest\bin\Debug\PalindromeStringMethod.dll
+C:\Users\TOM\Desktop\CodingTest\CodingTest\bin\Debug\PalindromeStringMethod.pdb
+C:\Users\TOM\Desktop\CodingTest\CodingTest\obj\Debug\CodingTest.csprojResolveAssemblyReference.cache
+C:\Users\TOM\Desktop\CodingTest\Solution\CodingTest\bin\Debug\CodingTest.exe.config
+C:\Users\TOM\Desktop\CodingTest\Solution\CodingTest\obj\Debug\CodingTest.exe
+C:\Users\TOM\Desktop\CodingTest\Solution\CodingTest\obj\Debug\CodingTest.pdb
+C:\Users\TOM\Desktop\CodingTest\Solution\CodingTest\bin\Debug\CodingTest.exe
+C:\Users\TOM\Desktop\CodingTest\Solution\CodingTest\bin\Debug\CodingTest.pdb
+C:\Users\TOM\Desktop\CodingTest\Solution\CodingTest\bin\Debug\PalindromeStringMethod.dll
+C:\Users\TOM\Desktop\CodingTest\Solution\CodingTest\bin\Debug\PalindromeStringMethod.pdb
+C:\Users\TOM\Desktop\CodingTest\Solution\CodingTest\obj\Debug\CodingTest.csprojResolveAssemblyReference.cache
+C:\Users\thomas.rainero\Desktop\ENG\Nuova cartella\CodingTest\Solution\CodingTest\bin\Debug\CodingTest.exe.config
+C:\Users\thomas.rainero\Desktop\ENG\Nuova cartella\CodingTest\Solution\CodingTest\obj\Debug\CodingTest.exe
+C:\Users\thomas.rainero\Desktop\ENG\Nuova cartella\CodingTest\Solution\CodingTest\obj\Debug\CodingTest.pdb
+C:\Users\thomas.rainero\Desktop\ENG\Nuova cartella\CodingTest\Solution\CodingTest\bin\Debug\CodingTest.exe
+C:\Users\thomas.rainero\Desktop\ENG\Nuova cartella\CodingTest\Solution\CodingTest\bin\Debug\CodingTest.pdb
+C:\Users\thomas.rainero\Desktop\ENG\Nuova cartella\CodingTest\Solution\CodingTest\bin\Debug\PalindromeStringMethod.dll
+C:\Users\thomas.rainero\Desktop\ENG\Nuova cartella\CodingTest\Solution\CodingTest\bin\Debug\PalindromeStringMethod.pdb
+C:\Users\thomas.rainero\Desktop\ENG\Nuova cartella\CodingTest\Solution\CodingTest\obj\Debug\CodingTest.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\TOM\Desktop\CodingTest\Solution\PalindromeUnitTest\bin\Release\PalindromeUnitTest.dll
+C:\Users\TOM\Desktop\CodingTest\Solution\PalindromeUnitTest\bin\Release\PalindromeUnitTest.pdb
+C:\Users\TOM\Desktop\CodingTest\Solution\PalindromeUnitTest\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\TOM\Desktop\CodingTest\Solution\PalindromeUnitTest\bin\Release\PalindromeStringMethod.dll
+C:\Users\TOM\Desktop\CodingTest\Solution\PalindromeUnitTest\bin\Release\PalindromeStringMethod.pdb
+C:\Users\TOM\Desktop\CodingTest\Solution\PalindromeUnitTest\bin\Release\it\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\TOM\Desktop\CodingTest\Solution\PalindromeUnitTest\obj\Release\PalindromeUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\TOM\Desktop\CodingTest\Solution\PalindromeUnitTest\obj\Release\PalindromeUnitTest.dll
+C:\Users\TOM\Desktop\CodingTest\Solution\PalindromeUnitTest\obj\Release\PalindromeUnitTest.pdb

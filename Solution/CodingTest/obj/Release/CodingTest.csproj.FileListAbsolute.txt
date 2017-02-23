@@ -1,0 +1,8 @@
+C:\Users\TOM\Desktop\CodingTest\Solution\CodingTest\bin\Release\CodingTest.exe.config
+C:\Users\TOM\Desktop\CodingTest\Solution\CodingTest\bin\Release\CodingTest.exe
+C:\Users\TOM\Desktop\CodingTest\Solution\CodingTest\bin\Release\CodingTest.pdb
+C:\Users\TOM\Desktop\CodingTest\Solution\CodingTest\bin\Release\PalindromeStringMethod.dll
+C:\Users\TOM\Desktop\CodingTest\Solution\CodingTest\bin\Release\PalindromeStringMethod.pdb
+C:\Users\TOM\Desktop\CodingTest\Solution\CodingTest\obj\Release\CodingTest.csprojResolveAssemblyReference.cache
+C:\Users\TOM\Desktop\CodingTest\Solution\CodingTest\obj\Release\CodingTest.exe
+C:\Users\TOM\Desktop\CodingTest\Solution\CodingTest\obj\Release\CodingTest.pdb

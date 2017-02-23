@@ -1,0 +1,15 @@
+C:\Projects\Enerj\CodingTest\PalindromeStringMethod\bin\Debug\PalindromeStringMethod.dll
+C:\Projects\Enerj\CodingTest\PalindromeStringMethod\bin\Debug\PalindromeStringMethod.pdb
+C:\Projects\Enerj\CodingTest\PalindromeStringMethod\obj\Debug\PalindromeStringMethod.dll
+C:\Projects\Enerj\CodingTest\PalindromeStringMethod\obj\Debug\PalindromeStringMethod.pdb
+C:\Projects\Enerj\CodingTest\PalindromeStringMethod\obj\Debug\PalindromeStringMethod.csprojResolveAssemblyReference.cache
+C:\Users\TOM\Desktop\CodingTest\PalindromeStringMethod\bin\Debug\PalindromeStringMethod.dll
+C:\Users\TOM\Desktop\CodingTest\PalindromeStringMethod\bin\Debug\PalindromeStringMethod.pdb
+C:\Users\TOM\Desktop\CodingTest\PalindromeStringMethod\obj\Debug\PalindromeStringMethod.csprojResolveAssemblyReference.cache
+C:\Users\TOM\Desktop\CodingTest\PalindromeStringMethod\obj\Debug\PalindromeStringMethod.dll
+C:\Users\TOM\Desktop\CodingTest\PalindromeStringMethod\obj\Debug\PalindromeStringMethod.pdb
+C:\Users\TOM\Desktop\CodingTest\Solution\PalindromeStringMethod\bin\Debug\PalindromeStringMethod.dll
+C:\Users\TOM\Desktop\CodingTest\Solution\PalindromeStringMethod\bin\Debug\PalindromeStringMethod.pdb
+C:\Users\TOM\Desktop\CodingTest\Solution\PalindromeStringMethod\obj\Debug\PalindromeStringMethod.csprojResolveAssemblyReference.cache
+C:\Users\TOM\Desktop\CodingTest\Solution\PalindromeStringMethod\obj\Debug\PalindromeStringMethod.dll
+C:\Users\TOM\Desktop\CodingTest\Solution\PalindromeStringMethod\obj\Debug\PalindromeStringMethod.pdb

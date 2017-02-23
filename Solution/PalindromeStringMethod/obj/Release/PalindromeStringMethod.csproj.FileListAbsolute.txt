@@ -1,0 +1,5 @@
+C:\Users\TOM\Desktop\CodingTest\Solution\PalindromeStringMethod\bin\Release\PalindromeStringMethod.dll
+C:\Users\TOM\Desktop\CodingTest\Solution\PalindromeStringMethod\bin\Release\PalindromeStringMethod.pdb
+C:\Users\TOM\Desktop\CodingTest\Solution\PalindromeStringMethod\obj\Release\PalindromeStringMethod.csprojResolveAssemblyReference.cache
+C:\Users\TOM\Desktop\CodingTest\Solution\PalindromeStringMethod\obj\Release\PalindromeStringMethod.dll
+C:\Users\TOM\Desktop\CodingTest\Solution\PalindromeStringMethod\obj\Release\PalindromeStringMethod.pdb
